@@ -1,0 +1,19 @@
+{
+  "name": "nodejscodemy",
+  "version": "10.19.0",
+  "description": "simple web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackjackson5555555555/Intro-to-node.git"
+  },
+  "author": "Sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackjackson5555555555/Intro-to-node/issues"
+  },
+  "homepage": "https://github.com/jackjackson5555555555/Intro-to-node#readme"
+}
